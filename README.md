@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 About me
 
 ### Languages and Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-001f24?style=for-the-badge&logo=javascript&logoColor=FFFF00)
+![JavaScript](https://img.shields.io/badge/-JavaScript-152D32?style=for-the-badge&logo=javascript&logoColor=FFFF00)
+![NodeJs](https://img.shields.io/badge/-NodeJs-152D32?style=for-the-badge&logo=nodejs&logoColor=3c873a)
 
 Follow me   
