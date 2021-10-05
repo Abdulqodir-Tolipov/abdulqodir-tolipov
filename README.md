@@ -29,4 +29,13 @@ About me
 ![React](https://img.shields.io/badge/-React-152D32?style=for-the-badge&logo=react&logoColor=61DBFB)
 ![Git](https://img.shields.io/badge/-Git-152D32?style=for-the-badge&logo=git&logoColor=f34f29)
 
-Follow me   
+### Follow me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-152D32?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/abdulqodir-tolipov-a4b929208)
+[![Instagram](https://img.shields.io/badge/-Instagram-152D32?style=for-the-badge&logo=Instagram&logoColor=#E4405F)](https://www.instagram.com/tolipov_abdulqodir)
+[![Facebook](https://img.shields.io/badge/-Facebook-152D32?style=for-the-badge&logo=Facebook&logoColor=#1877F2)](https://www.facebook.com/abdulqodir.tolipov)
+
+### Contact With Me
+
+![Email:tolipovabdulqodir@gmail.com](https://img.shields.io/badge/-tolipovabdulqodir@gmail.com-152D32?style=for-the-badge&logo=Gmail&logoColor=#EA4335)
+[![Telegram](https://img.shields.io/badge/-Telegram-152D32?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/abdulqodir_tolipov)
