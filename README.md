@@ -7,7 +7,7 @@
 
 [![Header](https://github.com/Abdulqodir-Tolipov/abdulqodir-tolipov/blob/main/assets/guthub-header.png)](https://t.me/abdulqodir_tolipov)
 
-### About Me
+<!-- ### About Me -->
 
 <!--
 Here are some ideas to get you started:
