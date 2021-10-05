@@ -2,7 +2,14 @@
 
 <!--
 **Abdulqodir-Tolipov/abdulqodir-tolipov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
+
+[![Header](https://github.com/Abdulqodir-Tolipov/abdulqodir-tolipov/blob/main/assets/guthub-header.png)](https://t.me/abdulqodir_tolipov)
+
+### About Me
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,10 +22,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Header](https://github.com/Abdulqodir-Tolipov/abdulqodir-tolipov/blob/main/assets/guthub-header.png)](https://t.me/abdulqodir_tolipov)
-
-About me
-
 ### Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-152D32?style=for-the-badge&logo=javascript&logoColor=FEC260)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-152D32?style=for-the-badge&logo=NodeJS&logoColor=3c873a)
@@ -29,7 +32,7 @@ About me
 ![React](https://img.shields.io/badge/-React-152D32?style=for-the-badge&logo=react&logoColor=61DBFB)
 ![Git](https://img.shields.io/badge/-Git-152D32?style=for-the-badge&logo=git&logoColor=f34f29)
 
-### Follow me
+### Follow Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-152D32?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/abdulqodir-tolipov-a4b929208)
 [![Instagram](https://img.shields.io/badge/-Instagram-152D32?style=for-the-badge&logo=Instagram&logoColor=#E4405F)](https://www.instagram.com/tolipov_abdulqodir)
@@ -39,3 +42,9 @@ About me
 
 ![Email:tolipovabdulqodir@gmail.com](https://img.shields.io/badge/-tolipovabdulqodir@gmail.com-152D32?style=for-the-badge&logo=Gmail&logoColor=#EA4335)
 [![Telegram](https://img.shields.io/badge/-Telegram-152D32?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/abdulqodir_tolipov)
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdulqodir-Tolipov&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulqodir-Tolipov&langs_count=8&theme=react)](https://github.com/anuraghazra/github-readme-stats)
