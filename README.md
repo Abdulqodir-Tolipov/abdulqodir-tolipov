@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Header
+[![Header](https://github.com/Abdulqodir-Tolipov/abdulqodir-tolipov/blob/main/assets/guthub-header.png)](https://t.me/abdulqodir_tolipov)
 
 About me
 
