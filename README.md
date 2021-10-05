@@ -22,7 +22,7 @@ About me
 ### Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-152D32?style=for-the-badge&logo=javascript&logoColor=FEC260)
 ![NodeJs](https://img.shields.io/badge/-NodeJs-152D32?style=for-the-badge&logo=nodejs&logoColor=3c873a)
-![HTML](https://img.shields.io/badge/-HTML5-152D32?style=for-the-badge&logo=html5&logoColor=185ADB)
+![HTML](https://img.shields.io/badge/-HTML5-152D32?style=for-the-badge&logo=html5&logoColor=#185ADB)
 ![CSS3](https://img.shields.io/badge/-CSS3-152D32?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-152D32?style=for-the-badge&logo=postgresql&logoColor=008bb9)
 ![Mongodb](https://img.shields.io/badge/-Mongodb-152D32?style=for-the-badge&logo=mongodb&logoColor=4DB33D)
