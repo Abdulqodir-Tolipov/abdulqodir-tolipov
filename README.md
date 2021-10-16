@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ### Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-152D32?style=for-the-badge&logo=javascript&logoColor=FEC260)
-![NodeJS](https://img.shields.io/badge/-NodeJS-152D32?style=for-the-badge&logo=NodeJS&logoColor=3c873a)
+![Node.js](https://img.shields.io/badge/-Node.js-152D32?style=for-the-badge&logo=Node.js&logoColor=#339933)
 ![HTML](https://img.shields.io/badge/-HTML5-152D32?style=for-the-badge&logo=html5&logoColor=#185ADB)
 ![CSS3](https://img.shields.io/badge/-CSS3-152D32?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-152D32?style=for-the-badge&logo=postgresql&logoColor=008bb9)
